@@ -1,0 +1,8 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "code": [
+    "code/ExampleModule/src/ExampleClassModule1.java",
+    "code/ExampleModule/src/example_package/ExamplePackageClassModule1.java"
+  ]
+}

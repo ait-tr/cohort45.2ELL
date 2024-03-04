@@ -1,0 +1,61 @@
+# Ignoring IDE and editor configuration files
+.idea/
+.vs/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+# Ignoring build directories and dependencies
+# Java build directory
+**/target
+# IntelliJ build directory
+**/out
+# General build directory
+**/build
+# Distribution build directory
+**/dist
+# Node.js modules directory
+**/node_modules
+
+# Ignoring log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignoring Java compiled files
+*.class
+
+# Ignoring Maven and Gradle build artifacts
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+**/mvn/timing.properties
+**/mvn/wrapper/maven-wrapper.jar
+**/gradle
+**/build
+
+# Ignoring OS configuration files
+# macOS folder attribute files
+**/DS_Store
+# Windows image file cache
+**/Thumbs.db
+
+# Ignoring secret files
+*.keystore
+*.p12
+*.pem
+
+# Ignoring generated files for frontend development (React, Node.js)
+**/public/
+**/cache/
+**/coverage/
+
+# Ignoring npm log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
