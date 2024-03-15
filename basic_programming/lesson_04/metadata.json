@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/BooleanAndCharExample.java",
+    "code/variables/src/StringExample.java",
+    "code/variables/src/ScannerExample.java",
+    "code/variables/src/SecondScannerExample.java",
+    "code/variables/src/Homework.java"
+  ]
+}
