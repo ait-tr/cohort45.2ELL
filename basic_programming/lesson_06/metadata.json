@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Main.java",
+    "code/variables/src/Divide.java",
+    "code/variables/src/MaxTask.java",
+    "code/variables/src/Variables.java",
+    "code/variables/src/VariablesSecond.java",
+    "code/variables/src/VisibleArea.java",
+    "code/variables/src/Homework.java"
+  ]
+}
