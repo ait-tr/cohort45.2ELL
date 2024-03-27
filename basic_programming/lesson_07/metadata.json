@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/SwitchMain.java",
+    "code/variables/src/WhileCycle.java",
+    "code/variables/src/SecondExampleWhile.java",
+    "code/variables/src/ThirdExampleWhile.java",
+    "code/variables/src/Homework.java"
+  ]
+}
