@@ -1,0 +1,13 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Main.java",
+    "code/variables/src/ArraySecondExample.java",
+    "code/variables/src/MethodArrayExample.java",
+    "code/variables/src/MethodArraySum.java",
+    "code/variables/src/MethodExample.java",
+    "code/variables/src/ArrayStringExample.java"
+  ]
+}
