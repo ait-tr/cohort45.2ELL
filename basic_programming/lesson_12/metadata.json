@@ -1,0 +1,11 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/MathTrainer.java",
+    "code/variables/src/Homework.java",
+    "code/variables/src/Homework2.java",
+    "code/variables/src/Homework3.java"
+  ]
+}
