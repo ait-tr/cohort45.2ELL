@@ -3,10 +3,12 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/variables/src/Person.java",
-    "code/variables/src/BanketReader.java",
-    "code/variables/src/BanketConsoleReader.java",
+    "code/variables/src/Animal.java",
+    "code/variables/src/Cat.java",
+    "code/variables/src/Dog.java",
+    "code/variables/src/Pig.java",
+    "code/variables/src/Crackosyabra.java",
     "code/variables/src/Main.java",
-    "code/variables/src/readme"
+    "code/variables/src/PetHospital.java"
   ]
 }

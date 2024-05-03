@@ -1,12 +1,18 @@
 public class Main {
 
     public static void main(String[] args) {
-        BanketConsoleReader banketConsoleReader = new BanketConsoleReader();
+        PetHospital petHospital = new PetHospital();
+        Cat cat = new Cat("Белая", "сибирская");
 
-        Person[] people = banketConsoleReader.readAll(10);
+        petHospital.helpForAnimal(cat);
 
-        System.out.println(people[2]);
-        System.out.println(people[8]);
+        Animal animal = new Dog("Локи", "мальтезе", 2, 8);
 
+        //int a = animal.getNumberOfKnownCommands();
+
+        petHospital.helpForAnimal(animal);
+
+        Crackosyabra crackosyabra = new Crackosyabra();
+        petHospital.helpForAnimal(crackosyabra);
     }
 }

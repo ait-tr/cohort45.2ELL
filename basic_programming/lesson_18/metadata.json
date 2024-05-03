@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Person.java",
+    "code/variables/src/BanketReader.java",
+    "code/variables/src/BanketConsoleReader.java",
+    "code/variables/src/BanketFileReader.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/Picker.java",
+    "code/variables/src/ResultPrinter.java",
+    "code/variables/src/ReadFile.java",
+    "code/variables/src/readme"
+  ]
+}
