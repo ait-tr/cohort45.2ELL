@@ -1,0 +1,23 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/AbleToEat.java",
+    "code/variables/src/Animal.java",
+    "code/variables/src/Cabriolet.java",
+    "code/variables/src/Car.java",
+    "code/variables/src/Cat.java",
+    "code/variables/src/Dog.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/MainCatExample.java",
+    "code/variables/src/PersidCat.java",
+    "code/variables/src/Person.java",
+    "code/variables/src/PetHospital.java",
+    "code/variables/src/Pig.java",
+    "code/variables/src/Pool.java",
+    "code/variables/src/Swimmable.java",
+    "code/yHomework/src/Calculator.java.java",
+    "code/yHomework/src/Main.java.java"
+  ]
+}
