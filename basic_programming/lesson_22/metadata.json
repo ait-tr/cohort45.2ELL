@@ -1,0 +1,17 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Main.java",
+    "code/variables/src/MainSecond.java",
+    "code/variables/src/MainThird.java",
+    "code/variables/src/Main4.java",
+    "code/variables/src/Main5.java",
+    "code/variables/src/Main6.java",
+    "code/variables/src/Main7.java",
+    "code/variables/src/Main8.java",
+    "code/variables/src/Main9.java",
+    "code/variables/src/Main10.java"
+  ]
+}
