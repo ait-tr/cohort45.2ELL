@@ -1,0 +1,13 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/BubbleSort.java",
+    "code/variables/src/Calculator.java",
+    "code/variables/src/Example.java",
+    "code/variables/src/FindTask.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/SelectionSort.java"
+  ]
+}
