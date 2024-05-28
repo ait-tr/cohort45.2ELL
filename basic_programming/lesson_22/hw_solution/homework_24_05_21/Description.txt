@@ -1,0 +1,110 @@
+
+Домашнее задание от 21.05.2024
+
+Определите временную сложность данных алгоритмов и объясните свой выбор!
+
+
+
+
+Ответы:
+
+## 1 Общая сложность - константная сложность O(1)
+    По тому что, временная сложность практически не зависит
+    от нескольких операций ввода / вывода информации.
+
+## 2 Общая сложность - константная сложность O(1)
+    По тому что,  временная сложность не находится
+    в зависимости от условных конструкций.
+
+## 3 Общая сложность - константная сложность O(1)
+    По тому что, во всех этих трёх циклах количество итераций известно заранее.
+
+## 4 Общая сложность - в четвёртой степени O(n^4)
+    По тому что, выражение "i < n * n" во внешнем цикле по сути означает ещё один вложенный цикл
+    и выраженме "j < n * n" во внутреннем цикле то же означает ещё один вложенный цикл,
+    в итоге получается четвёртая степень и циклы будут выполнятся 100^4 раз, практически бесконечно,
+    что не есть хорошо!
+
+## 5 Общая сложность - квадратичная временная сложность O(n^2)
+     По тому что, выражение "i < n * n" в данном цикле означает ещё один вложенный цикл.
+
+## 6 Общая сложность - константная сложность O(1)
+    По тому что, значение "n * n * 0" равно нулю, следовательно цикл не выполнится ни разу.
+
+
+
+## 1
+```java
+public class Program {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Введите имя: ");
+        String name = in.nextLine();
+        System.out.print("Возраст: ");
+        int age = in.nextInt();
+        System.out.print("Введите рост: ");
+        float height = in.nextFloat();
+        System.out.printf("Имя: %s  Возраст: %d  Рост: %.2f \n", name, age, height);
+        in.close();
+    }
+}
+```
+## 2
+```java
+        int num1 = 6;
+        int num2 = 8;
+        if (num1 > num2) {
+            System.out.println("Первое число больше второго");
+        } else if (num1 < num2) {
+            System.out.println("Первое число меньше второго");
+        } else {
+            System.out.println("Числа равны");
+        }
+```
+## 3
+```java
+        for (int i = 1; i < 9; i++) {
+            System.out.printf("Квадрат числа %d равен %d \n", i, i * i);
+        }
+        int j = 1;
+        do {
+            System.out.printf("Квадрат числа %d равен %d \n", i, i * i);
+            j++;
+        } while (j < 9);
+        int k = 1;
+        while (k < 10) {
+            System.out.printf("Квадрат числа %d равен %d \n", k, k * k);
+            k++;
+        }
+```
+### 4
+```java
+    public static void main(String[] args) {
+        int n = 100;
+        for (int i = 0; i < n * n; i++) {
+            for (int j = 0; j < n * n; j++) {
+                System.out.println(1);
+            }
+        }
+    }
+```
+## 5
+```java
+public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+    int n = scanner.nextInt();
+    for (int i = 0; i < n * n; i++) {
+        System.out.println(1);
+    }
+}
+```
+## 6
+```java
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        for (int i = 0; i < n * n * 0; i++) {
+            System.out.println(1);
+        }
+    }
+```
