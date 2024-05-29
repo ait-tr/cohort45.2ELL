@@ -1,0 +1,11 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/EqualsExample.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/SplitExample.java",
+    "code/variables/src/Task.java"
+  ]
+}
