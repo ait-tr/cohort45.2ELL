@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Example.java",
+    "code/variables/src/Factorial.java",
+    "code/variables/src/Fibonacci.java",
+    "code/variables/src/Homework.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/OldHomework.java",
+    "code/variables/src/Sorting.java"
+  ]
+}
+
+
