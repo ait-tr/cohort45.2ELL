@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Bank.java",
+    "code/variables/src/BankOperation.java",
+    "code/variables/src/Person.java",
+    "code/variables/src/OperationType.java",
+    "code/variables/src/AgeCategory.java",
+    "code/variables/src/CreditCalculator.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/SecondMain.java",
+    "code/variables/src/SolvedHomework.java",
+    "code/variables/src/SecondSolvedHomework.java"
+  ]
+}
+
+
