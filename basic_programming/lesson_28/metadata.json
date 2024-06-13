@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Main.java",
+    "code/variables/src/MainSecond.java",
+    "code/variables/src/Person.java",
+    "code/variables/src/PersonListMain.java",
+    "code/variables/src/CompareMain.java"
+  ]
+}
+
+
