@@ -3,18 +3,18 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/variables/srcMyArrayList.java",
-    "code/variables/srcMyList.java",
-    "code/variables/srcMyListExample.java",
-    "code/variables/srcMain.java",
-    "code/variables/srcSecondMain.java",
-    "code/variables/srcThirdMain.java",
-    "code/variables/srcFourthMain.java",
-    "code/variables/srcBox.java",
-    "code/variables/srcBoxExample.java",
-    "code/variables/srcCalculator.java",
-    "code/variables/srcCalculatorExample.java",
-    "code/variables/srcPrinter.java"
+    "code/variables/src/MyArrayList.java",
+    "code/variables/src/MyList.java",
+    "code/variables/src/MyListExample.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/SecondMain.java",
+    "code/variables/src/ThirdMain.java",
+    "code/variables/src/FourthMain.java",
+    "code/variables/src/Box.java",
+    "code/variables/src/BoxExample.java",
+    "code/variables/src/Calculator.java",
+    "code/variables/src/CalculatorExample.java",
+    "code/variables/src/Printer.java"
   ]
 }
 
