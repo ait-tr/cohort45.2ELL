@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Button.java",
+    "code/variables/src/CancelButton.java",
+    "code/variables/src/OkButton.java",
+    "code/variables/src/Main.java"
+  ]
+}
+

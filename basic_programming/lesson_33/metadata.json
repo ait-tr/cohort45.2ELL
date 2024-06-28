@@ -1,0 +1,20 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Button.java",
+    "code/variables/src/CancelButton.java",
+    "code/variables/src/OkButton.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/FunctionMain.java",
+    "code/variables/src/LambdaMain.java",
+    "code/variables/src/Person.java",
+    "code/variables/src/StreamExample.java",
+    "code/variables/src/Task.java",
+    "code/variables/src/SecondTask.java"
+  ]
+}
+
+
+
