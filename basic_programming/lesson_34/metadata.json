@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Task.java",
+    "code/variables/src/TaskSecond.java",
+    "code/variables/src/TaskThird.java",
+    "code/variables/src/TaskFourth.java",
+    "code/variables/src/Person.java",
+    "code/variables/src/Book.java",
+    "code/variables/src/Courier.java",
+    "code/variables/src/Delivery.java"
+  ]
+}
+
+
+
+
