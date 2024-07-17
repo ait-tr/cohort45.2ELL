@@ -1,0 +1,21 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Main.java",
+    "code/variables/src/SecondMain.java",
+    "code/variables/src/MyException.java",
+    "code/variables/src/Calculator.java",
+    "code/variables/src/ExceptionExample.java",
+    "code/variables/src/FileMain.java",
+    "code/variables/src/AutocloseableExample.java",
+    "code/variables/src/BestFileReader.java"
+  ]
+}
+
+
+
+
+
+
