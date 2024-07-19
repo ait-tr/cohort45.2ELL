@@ -1,0 +1,25 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/DateMain.java",
+    "code/variables/src/FormatMain.java",
+    "code/variables/src/Homework.java",
+    "code/variables/src/LocalDateMain.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/Message.java",
+    "code/variables/src/MessageMain.java",
+    "code/variables/src/Person.java",
+    "code/variables/src/PersonMain.java",
+    "code/variables/src/ShiftMain.java",
+    "code/variables/src/WorkShift.java",
+    "code/variables/src/ZoneMain.java"
+  ]
+}
+
+
+
+
+
+
