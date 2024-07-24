@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/variables/src/Bank.java",
+    "code/variables/src/BankTest.java",
+    "code/variables/src/Calculator.java",
+    "code/variables/src/CalculatorTest.java",
+    "code/variables/src/Main.java",
+    "code/variables/src/SymbolPicker.java",
+    "code/variables/src/SymbolPickerTest.java"
+  ]
+}
+
+
+
+
+
