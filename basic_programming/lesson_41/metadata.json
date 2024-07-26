@@ -1,0 +1,36 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/test/src/Car.java",
+    "code/test/src/CarTest.java",
+    "code/test/src/Husband.java",
+    "code/test/src/HusbandTest.java",
+    "code/test/src/MainSecond.java",
+    "code/test/src/TestForTest.java",
+    "code/nested/src/Calculator.java",
+    "code/nested/src/Car.java",
+    "code/nested/src/Main.java",
+    "code/nested/src/Person.java",
+    "code/default/src/Main.java",
+    "code/default/src/Person.java",
+    "code/default/src/Runnable.java",
+    "code/default/src/SecondMain.java",
+    "code/default/src/Swimmable.java",
+    "code/printf/src/Main.java",
+    "code/varargs/src/Calculator.java",
+    "code/varargs/src/Main.java"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
