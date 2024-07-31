@@ -1,0 +1,28 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/default/src/calculator/Calculator.java",
+    "code/default/src/calculator/MathCalculator.java",
+    "code/default/src/main/Main.java",
+    "code/default/src/operator/Operator.java",
+    "code/default/src/parser/Parser.java",
+    "code/default/src/parser/StringParser.java",
+    "code/default/src/printer/ConsolePrinter.java",
+    "code/default/src/printer/FilePrinter.java",
+    "code/default/src/printer/Printer.java"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
