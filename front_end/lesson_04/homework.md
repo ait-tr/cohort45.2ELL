@@ -23,3 +23,6 @@
 (нужно самостоятельно изучить css transform и overflow)
 
 ![img_7.png](img_7.png)
+
+
+!!!!! P.S. Картинки выложижены в Slack!
