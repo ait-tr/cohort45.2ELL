@@ -1,0 +1,17 @@
+.block_img {
+    height: 400px;
+    background-color: cornsilk;
+    background-image: url("../images/s-cat.png");
+    background-repeat: repeat-x;
+    /* background-position: left center; */
+    background-position: center;
+    /* background-size: 250px; */
+    background-size: 25%;
+}
+
+.red {
+    background-image: url("../images/l_cat.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 18%;
+}
