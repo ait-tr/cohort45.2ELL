@@ -1,0 +1,21 @@
+.block {
+    height: 300px;
+    background-color: antiquewhite;
+    margin: 200px 0;
+    
+}
+
+.block2 {
+width: 50px;
+height: 50px;
+background-color: red;
+position: absolute;
+left: 100px;
+top: 150px;
+}
+
+.text {
+    background-color: aqua;
+    width: 250px;
+    min-height: 250px;
+}
