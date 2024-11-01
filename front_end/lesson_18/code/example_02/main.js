@@ -1,6 +1,6 @@
 console.log('Начало кода');
 const randomJokePromise = fetch(
-  'https://jsonplaceholder.typicode.com/todos'
+  'https://official-joke-api.appspot.com/random_joke'
 );
 
 console.log('Конец синхронного кода');
